@@ -11,12 +11,18 @@
       integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
       crossorigin="anonymous"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
     <link href="style.css" rel="stylesheet" />
   </head>
-  <body>
-    <div class="container-fluid">
+  <body style="font-family: 'Inter', sans-serif">
+    <div class="container-fluid bg-white header">
       <nav
-        class="navbar navbar-expand-lg navbar-light bg-light text-center mx-auto"
+        class="navbar navbar-expand-lg navbar-light bg-transparent text-center mx-auto"
       >
         <div
           class="collapse navbar-collapse align-center"
@@ -37,12 +43,37 @@
           </ul>
         </div>
       </nav>
-      <section class="header">
-        <h1>
-          Hey there. i'm Kamran.<span class="second_hed"
+      <section
+        class="pt-5 d-flex flex-column align-center justify-content-end text-center w-50"
+        style="margin-left: 25vw; margin-right: 25vw"
+      >
+        <h1 class="fw-bold">
+          Hey there. i'm Kamran.<span class="second_hed d-block text-success"
             >i'm a software developer.</span
           >
         </h1>
+        <p class="fs-5">
+          I can help you build a product , feature or website Look through some
+          of my work and experience! If you like what you see and have a project
+          you need coded, don’t hesitate to contact me.
+        </p>
+        <ul class="list-group list-group-horizontal align-self-center">
+          <li class="list-group-item" style="border: none">
+            <img src="/images/twitter-icon.svg" alt="twitter" />
+          </li>
+          <li class="list-group-item" style="border: none">
+            <img src="/images/Linkedin icon.svg" alt="Linkedin" />
+          </li>
+          <li class="list-group-item" style="border: none">
+            <img src="/images/m.svg" alt="m" />
+          </li>
+          <li class="list-group-item" style="border: none">
+            <img src="/images/github.svg" alt="github" />
+          </li>
+          <li class="list-group-item" style="border: none">
+            <img src="/images/chill.svg" alt="chill" />
+          </li>
+        </ul>
       </section>
     </div>
     <script
