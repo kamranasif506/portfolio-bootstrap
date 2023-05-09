@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="Kamran.png" alt="logo" width="140"  height="auto" />
@@ -39,14 +38,14 @@
 
 > Portfolio website created with Bootstrap framework
 
-
 ## 🛠 Built With <a name="built-with"></a>
+
 1- HTML.
 2- CSS.
 3- Bootstrap.
 4- linters.
-### Tech Stack <a name="tech-stack"></a>
 
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -56,7 +55,6 @@
     <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
   </ul>
 </details>
-
 
 <!-- Features -->
 
@@ -132,6 +130,7 @@ You can run the tests using the following commands:
     npx hint .
     npx stylelint "**/*.{css,scss}"
 ```
+
 ### Deployment
 
 You can deploy this project using github pages.
@@ -142,7 +141,6 @@ You can deploy this project using github pages.
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 Kamran Asif
 
 - GitHub: [@githubhandle](https://github.com/kamranasif506)
@@ -151,18 +149,15 @@ You can deploy this project using github pages.
 
 👤 Samuel Wanza
 
-- GitHub: [@githubhandle](https://github.com/Zafron047)
-- Twitter: [@twitterhandle](https://https//twitter.com/NohainZ)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nohain-islam-0261b4148/)
-
-
+- GitHub: [@githubhandle](https://github.com/Samuelwanza)
+- Twitter: [@twitterhandle](https://https//twitter.com/samuelmunguti9)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-munguti-8a257a1bb/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] Add Design animations
 - [ ] Enhance the styling for all screens.
@@ -172,7 +167,6 @@ You can deploy this project using github pages.
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-
 
 Contributions, issues, and feature requests are welcome!
 
@@ -184,7 +178,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project just give it a star ⭐️. 
+If you like this project just give it a star ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
