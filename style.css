@@ -13,6 +13,19 @@
   background: #EBF0EE;
   border-radius: 4px;
 }
+.textColor2 {
+  color: #36B37E;
+  font-size: 12px;
+  background: #FFFFFFEE;
+  border-radius: 4px;
+}
 .img {
   width: 100%;
 }
+.about-card {
+  background: #ebf0ee;
+}
+.card {
+  height: 100%;
+}
+
