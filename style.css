@@ -9,4 +9,10 @@
 
 .textColor {
   color: #172b4d;
+  font-size: 12px;
+  background: #EBF0EE;
+  border-radius: 4px;
+}
+.img {
+  width: 100%;
 }
