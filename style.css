@@ -1,3 +1,16 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+.info {
+  margin-left: 25vw;
+   margin-right: 25vw;
+}
+.list-group-item {
+  border: none;
+}
+.project-card-header {
+  height: 14rem; background: #ebf0ee;
+}
 .header {
   background-image: url(images/Header-llustration-desktop@2x.png);
   background-size: 100% 100%;
