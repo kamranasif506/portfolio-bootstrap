@@ -1,16 +1,21 @@
 body {
   font-family: 'Inter', sans-serif;
 }
+
 .info {
   margin-left: 25vw;
-   margin-right: 25vw;
+  margin-right: 25vw;
 }
+
 .list-group-item {
   border: none;
 }
+
 .project-card-header {
-  height: 14rem; background: #ebf0ee;
+  height: 14rem;
+  background: #ebf0ee;
 }
+
 .header {
   background-image: url(images/Header-llustration-desktop@2x.png);
   background-size: 100% 100%;
@@ -23,25 +28,29 @@ body {
 .textColor {
   color: #172b4d;
   font-size: 12px;
-  background: #EBF0EE;
+  background: #ebf0ee;
   border-radius: 4px;
 }
+
 .textColor2 {
-  color: #36B37E;
+  color: #36b37e;
   font-size: 12px;
-  background: #FFFFFFEE;
+  background: #fffe;
   border-radius: 4px;
 }
+
 .img {
   width: 100%;
 }
+
 .about-card {
   background: #ebf0ee;
 }
+
 .card {
   height: 100%;
 }
+
 .third_img {
   float: right;
 }
-
